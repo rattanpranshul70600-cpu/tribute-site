@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+       .title {
+        font-size: 20px;
+        background-color: rgb(255, 0, 0);
+        border-radius: 0px;
+        padding-left: 800px;
+        padding-right: 800px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        font-weight: bold;
+    }
+    .pic {
+      width: 400px;
+    }
+
+    .downpic {
+      font-size: 20px;
+      margin-top: 0px;
+      background-color: white;
+      padding-left: 0px;
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+    .box {
+      display: inline-block;
+      vertical-align: top;
+    }
+
+    .pointone {
+      margin-top: 0px;
+      display: inline-block;
+      margin-left: 10px;
+      font-weight: bold;
+      font-size: 20px;
+    }
+    .expone {
+      margin-left: 120px;
+    }
+    .boxtwo {
+      display: inline-block;
+    }
+    .pointtwo {
+   display: inline-block;
+      margin-left: 10px;
+      font-weight: bold;
+      font-size: 20px;
+    }
+    .exptwo {
+      margin-left: 120px;
+    }
+    .pointthree {
+      display: inline-block;
+      margin-left: 10px;
+      font-weight: bold;
+      font-size: 20px;
+    }
+    .expthree {
+      margin-left: 120px;
+    }
+    .pointfour {
+       display: inline-block;
+      margin-left: 10px;
+      font-weight: bold;
+      font-size: 20px;
+    }
+    .expfour {
+      margin-left: 120px;
+    }
+    .pointfive {
+      display: inline-block;
+      margin-left: 10px;
+      font-weight: bold;
+      font-size: 20px;
+    }
+    .expfive {
+      margin-left: 120px;
+    }
+    .pointsix {
+      display: inline-block;
+      margin-left: 10px;
+      font-weight: bold;
+      font-size: 20px;
+    }
+    .expsix {
+      margin-left: 120px;
+    }
+    .pointseven {
+      display: inline-block;
+      margin-left: 10px;
+      font-weight: bold;
+      font-size: 20px;
+    }
+    .expseven {
+      margin-left: 120px;
+    }
+    </style> 
+   
+    <title>My Tribute to Nicola Tesla></title>
+  </head>
+  <body>
+    <p class="title">
+      Tribute to Nicola Tesla
+    </p>
+    <div class="box">
+      <img class="pic" src="thumbnails/Screenshot 2026-02-21 201737.png">
+      <p Class="downpic">
+      The Man Who Invented the Twentieth Century
+    </p>
+    </div>
+    <div  class=boxtwo>
+    <p class="pointone">
+      1. Full Name & Birth
+    </p>
+
+    <p class="expone">
+      <a href="https://en.wikipedia.org/wiki/Nikola_Tesla" target="_blank">Nicola Tesla</a> was born on July 10, 1856, in 
+      <a href="https://en.wikipedia.org/wiki/Smiljan,_Croatia" target="_blank">Smiljan</a> (modern-day Croatia). He was of 
+      <a href="https://en.wikipedia.org/wiki/Serbs" target="_blank">Serbian ethnicity</a>.
+    </p>
+
+    <p class="pointtwo">
+      2. Electrical Engineering Genius
+    </p>
+    <p class="exptwo">
+      He was a brilliant inventor, electrical engineer, and futurist who made major contributions to modern electricity systems.
+    </p>
+    <p class="pointthree">
+      3. Alternating Current (AC) System
+    </p>
+    <p class="expthree">
+Tesla developed the 
+<a href="https://en.wikipedia.org/wiki/Alternating_current" target="_blank">Alternating Current (AC) electrical system</a>, which is still used worldwide today to power homes and cities.
+    </p>
+    <p class="pointfour">
+4. The “War of Currents”
+    </p>
+    <p class="expfour">
+Tesla worked with 
+<a href="https://en.wikipedia.org/wiki/George_Westinghouse" target="_blank">George Westinghouse</a>. to promote AC electricity, competing against 
+<a href="https://en.wikipedia.org/wiki/Thomas_Edison" target="_blank">Thomas Edison</a>, who supported 
+<a href="https://en.wikipedia.org/wiki/Direct_current" target="_blank">Direct Current (DC).</a>
+    </p>
+    <p class="pointfive">
+5. Tesla Coil
+    </p>
+    <p class="expfive">
+He invented the 
+<a href="https://en.wikipedia.org/wiki/Tesla_coil" target="_blank">Tesla Coil</a>
+ in 1891, a device used to produce high-voltage electricity and still used in radio technology experiments.
+    </p>
+    <p class="pointsix">
+6. Wireless Energy Vision
+    </p>
+    <p class="expsix">
+Tesla dreamed of transmitting electricity wirelessly across the globe through his project called 
+<a href="https://en.wikipedia.org/wiki/Wardenclyffe_Tower" target="_blank">Wardenclyffe Tower.</a>
+    </p>
+    <p class="pointseven">
+7. Radio Technology
+    </p>
+    <p class="expseven">
+Although radio is often credited to 
+<a href="https://en.wikipedia.org/wiki/Guglielmo_Marconi" target="_blank">Guglielmo Marconi</a>, Tesla’s earlier patents played a major role in 
+<a href="https://en.wikipedia.org/wiki/Radio" target="_blank">radio communication technology.</a>
+    </p>
+    </div>
+  </body>
+</html>
